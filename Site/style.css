@@ -1,0 +1,98 @@
+.tesla {
+    border-top: 5px solid green;
+    width: 1000px;
+    height: 700px;
+    border-bottom: 5px solid green;
+}
+
+.Client {
+    border-bottom: 3px solid grey;
+    color: white;
+}
+
+.Iron {
+    border: 4px solid black;
+    border-width: 3px;
+    background-color: white;
+    max-width: 250px;
+    padding: 25px;
+    float: left;
+}
+
+.iron {
+    border-radius: 1000px;
+    box-shadow: 15px 15px 15px #666;
+    width: 240px;
+    height: 250px;
+}
+
+.Steve {
+    border: 4px solid black;
+    background-color: white;
+    border-width: 3px;
+    max-width: 250px;
+    padding: 25px;
+    float: left;
+    margin-left: 300px;
+}
+
+.steve {
+    border-radius: 1000px;
+    box-shadow: 15px 15px 15px #666;
+    width: 240px;
+    height: 250px;
+}
+
+.Pavel {
+    border: 4px solid black;
+    background-color: white;
+    border-width: 3px;
+    max-width: 250px;
+    padding: 25px;
+    margin-left: 1280px;
+}
+
+.pavel {
+    border-radius: 1000px;
+    box-shadow: 15px 15px 15px #666;
+    width: 240px;
+    height: 250px;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.902);
+}
+
+.pustoy {
+    border-bottom: 5px solid green;
+}
+
+#ni {
+    color: white;
+    width: 30%;
+    border-bottom: 3px solid gray
+}
+
+/* .table1 {
+    background-color: black;
+    color: white;
+    border: 3px solid green;
+} */
+
+table {
+    text-align: center;
+    }
+    th, td:first-child {
+    background: #000000;
+    color: white;
+    padding: 10px 20px;
+    }
+    th, td {
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    border-color: rgb(0, 255, 17);
+    }
+    td {
+    background: #000000;
+    color: white;
+    }
